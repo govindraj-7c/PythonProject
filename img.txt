@@ -1,0 +1,6 @@
+from PIL import ImageTk,Image
+#image_0 = Image.open("F:\\Raj\\ProjectIntership\\Image.jpeg")
+#resize = image_0.resize((800, 500))
+#bck_end = ImageTk.PhotoImage(resize)
+#lbl = Label(top, image = bck_end)
+#lbl.place(x=0,y=0)
